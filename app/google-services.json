@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690867936326",
+    "project_id": "themoviedb-api",
+    "storage_bucket": "themoviedb-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690867936326:android:e18e0cac0cc624240ffe47",
+        "android_client_info": {
+          "package_name": "com.jonathasdev.jotamovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690867936326-l7ahq8cnm1qfqu124aetu8r8c8va16n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0LQOHa7SUnpuBX_jLExZ5nS1nWb3cN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690867936326-l7ahq8cnm1qfqu124aetu8r8c8va16n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
