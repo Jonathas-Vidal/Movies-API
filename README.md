@@ -12,11 +12,13 @@ Este APP exibe o catálogo dos filmes mais populares no momento, buscados em tem
 Tecnologias/ferramentas usadas no projeto:
 
 * Android Studio
-* Firebase
 * Kotlin
+* Firebase
+* RecyclerView
 * Retrofit
 * Picasso
 * MVVM Arch
+* Lifecycle
 
 ## Services Used
 
