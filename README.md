@@ -28,9 +28,6 @@ Tecnologias/ferramentas usadas no projeto:
 ## How to use
 
 ### 1 - Ao acessar o APP você encontrará uma tela de Login, onde irá inserir suas credenciais. Se for seu primeiro acesso, clique em Cadastrar-se.
-
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
-
 ### 2 - Tendo uma conta registrada, basta fazer login.
 
 ![image](https://user-images.githubusercontent.com/101603957/204070165-29ecf4b0-72c1-4f1e-9f1b-acab184f930b.png)
