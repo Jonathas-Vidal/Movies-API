@@ -29,7 +29,7 @@ Tecnologias/ferramentas usadas no projeto:
 
 ## How to use
 
-### 1 - Ao acessar o APP você encontrará uma tela de Login, onde irá inserir suas credenciais. Se for seu primeiro acesso, clique em Cadastrar-se.
+### 1 - Ao acessar o APP você encontrará uma tela de Login, onde irá inserir suas credenciais. Se for seu primeiro acesso, você deverá se cadastrar.
 ### 2 - Tendo uma conta registrada, basta fazer login.
 
 ![image](https://user-images.githubusercontent.com/101603957/204070165-29ecf4b0-72c1-4f1e-9f1b-acab184f930b.png)
@@ -37,7 +37,10 @@ Tecnologias/ferramentas usadas no projeto:
 ### 3 - Caso contrário, clique em Cadastrar-se e você será redirecionado para essa tela.
 ![image](https://user-images.githubusercontent.com/101603957/204070176-7029397c-7b95-4620-bd9e-2ed33176b49c.png)
 
-### 4 - Após o login, você será redirecionado para a tela principal.
+### 4 - Após o login, você será redirecionado para a tela principal. Todo fluxo de Cadastro e login é visto pelo Firebase.
+![image](https://user-images.githubusercontent.com/101603957/204091071-6a2a93f3-3492-4113-be01-9d9369346c2e.png)
+![image](https://user-images.githubusercontent.com/101603957/204091086-f1de51ac-ac8a-4d04-b19c-437ed805ff1c.png)
+
 
 ### 5 - Você pode navegar pelos filmes e verificar quais são os mais assistidos no momento.
 
