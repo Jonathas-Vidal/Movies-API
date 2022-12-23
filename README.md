@@ -55,7 +55,7 @@ Tecnologias/ferramentas usadas no projeto:
 ## Features
 
 Principais ações no APP:
- - Encontrar filmes
+ - Encontrar filmes.
  - Dados em tempo real.
  - Sistema de login.
  - Favorite Artists.
